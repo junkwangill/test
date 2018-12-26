@@ -11,3 +11,5 @@
 +++
 
 ## Adiós!
+
+@color[color-value](your-content)
